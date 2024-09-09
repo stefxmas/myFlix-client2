@@ -71,11 +71,10 @@
 122C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@parcel\package-manager\src\getCurrentPackageManager.js133703173967193147 0
 100C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\Form\package.json133703179437722228 0
 98C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\regions\BM.js133703173978391661 0
-57C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src133703173067493699 1
+57C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src133703195435107084 1
 94C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\dom-helpers\cjs\hasClass.js133703179424872097 0
 103C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\ordered-binary\assets\powers-dre.png133703173972939407 0
 107C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\cjs\DropdownDivider.d.ts133703179441626697 0
-67C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\.gitgnore133703173161784001 0
 97C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\cjs\Badge.d.ts133703179440287065 0
 116C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\features\keyboardevent-which.js133703173988850844 0
 96C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\esm\Fade.d.ts133703179442094141 0
@@ -163,7 +162,7 @@
 115C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133703179435514532 0
 86C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\dom-helpers\LICENSE133703179422699594 0
 105C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\features\jpeg2000.js133703173988676133 0
-92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view\main-view.jsx133703193020856737 0
+92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view\main-view.jsx133703196966681885 0
 79C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\login-view133703141869356731 1
 99C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@swc\helpers\_\_write_only_error133703179428897490 1
 91C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\semver\internal\debug.js133703173972165834 0
@@ -5961,3 +5960,4 @@
 69C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\onward.jpg133664033923603254 0
 95C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\movie-view\movie-view.scss133703189318877529 0
 69C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.html133703186936795240 0
+64C:\Users\stefa\Documents\careerfoundry\myFlix-client2\.gitignore133703196635078518 0
