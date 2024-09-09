@@ -1,5 +1,27 @@
-$color: steelblue;
+$primary: SeaGreen;
+$body-bg: Honeydew;
 
-.my-flix {
-  color: $color;
-}
+@import '~bootstrap/scss/bootstrap.scss';
+
+.movie-card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .movie-card img {
+    height: auto;
+    width: 100%;
+  }
+  
+  .movie-card .card-body {
+    flex-grow: 1; /* Makes the card body take up remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Spreads buttons and content evenly */
+  }
+
+// $color: steelblue;
+
+// .my-flix {
+//   color: $color;
+// }

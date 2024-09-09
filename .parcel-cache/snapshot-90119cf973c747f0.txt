@@ -1,0 +1,56 @@
+55
+63C:\Users\stefa\Documents\careerfoundry\myFlix-client2\README.md133703128185551668 0
+68C:\Users\stefa\Documents\careerfoundry\myFlix-client2\.gitattributes133703128185561883 0
+80C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\signup-view133703142584519428 1
+77C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\avengers.jpg133664020243317845 0
+66C:\Users\stefa\Documents\careerfoundry\myFlix-client2\package.json133703132047165291 0
+83C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad - Copy.js133703132046804437 0
+58C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist133703145879485035 1
+68C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components133703143543133941 1
+69C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\oldboy.jpg133664033115347221 0
+71C:\Users\stefa\Documents\careerfoundry\myFlix-client2\package-lock.json133703132047165291 0
+70C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\momento.jpg133664009713584352 0
+68C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\index.scss133703147623896564 0
+64C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images133703145521500252 1
+71C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\avengers.jpg133664020243317845 0
+57C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src133703145226735668 1
+81C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\profile-view133703143221683345 1
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\shining.jpg133664035400598015 0
+68C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\index.html133703132047195796 0
+67C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\index.jsx133703146860252881 0
+87C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js - Copy.map133703132047025896 0
+72C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\h&k.jpg133664032246475164 0
+98C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\profile-view\profile-view.jsx133703143360024913 0
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\hotfuzz.jpg133664021362888152 0
+69C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\onward.jpg133664033923603254 0
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js133703132046929634 0
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\momento.jpg133664009713584352 0
+77C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\johnwick.jpg133664031211179056 0
+75C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\oldboy.jpg133664033115347221 0
+71C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\johnwick.jpg133664031211179056 0
+75C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\onward.jpg133664033923603254 0
+81C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\theconjuring.jpg133664030125673210 0
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index - Copy.html133703132046702004 0
+94C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\login-view\login-view.jsx133703141964612390 0
+80C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\images\theprestige.jpg133664029203109899 0
+92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view\main-view.jsx133703139903037189 0
+79C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\login-view133703141869356731 1
+78C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view133703139504353436 1
+70C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\shining.jpg133664035400598015 0
+102C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\navigation-bar\navigation-bar.jsx133703143754488841 0
+96C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\signup-view\signup-view.jsx133703142684358978 0
+79C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\movie-card133703138377550173 1
+79C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\movie-view133703141345583493 1
+83C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\navigation-bar133703143672717423 1
+69C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.html133703132047155320 0
+94C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\movie-view\movie-view.jsx133703141498720859 0
+94C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\movie-card\movie-card.jsx133703140315087239 0
+84C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.2212206d - Copy.css133703132046702004 0
+66C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\h&k.jpg133664032246475164 0
+70C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\hotfuzz.jpg133664021362888152 0
+77C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.2212206d.css133703132046712029 0
+88C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.2212206d.css - Copy.map133703132046712029 0
+81C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.2212206d.css.map133703132046712029 0
+80C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js.map133703132047145348 0
+75C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\theconjuring.jpg133664030125673210 0
+74C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\theprestige.jpg133664029203109899 0
