@@ -14,8 +14,8 @@ export const MainView = () => {
   const [user, setUser] = useState(storedUser ? storedUser : null);
   const [token, setToken] = useState(storedToken ? storedToken : null);
   const [movies, setMovies] = useState([]);
-  // const [selectedMovie, setSelectedMovie] = useState(null);
-  // const [favoriteMovies, setFavoriteMovies] = useState(user ? user.favoriteMovies : []);
+  const [selectedMovie, setSelectedMovie] = useState(null);
+  const [favoriteMovies, setFavoriteMovies] = useState(user ? user.favoriteMovies : []);
 
   useEffect(() => {
     if (token) {
@@ -66,7 +66,7 @@ export const MainView = () => {
 
     console.log('Attempting to add favorite:', movie);
 
-    
+
     fetch(`https://young-taiga-22993-24addf49ed31.herokuapp.com/users/${user.Username}/movies/${movie.id}`, {
       method: "POST",
       headers: {
@@ -77,13 +77,13 @@ export const MainView = () => {
     .then(res => res.json())
     .then(updatedUser => {
       setUser(updatedUser);
-      setFavoriteMovies(updatedUser.favoriteMovies); 
+      setFavoriteMovies(updatedUser.favoriteMovies);
       localStorage.setItem("user", JSON.stringify(updatedUser));
       alert(`${movie.Title} has been added to your favorites`);
     })
     .catch(err => console.error("Error adding favorite movie:", err));
   };
-  
+
 
   const handleRemoveFavoriteClick = (movie) => {
     if (!token) {
@@ -101,7 +101,7 @@ export const MainView = () => {
     .then(res => res.json())
     .then(updatedUser => {
       setUser(updatedUser);
-      setFavoriteMovies(updatedUser.favoriteMovies); 
+      setFavoriteMovies(updatedUser.favoriteMovies);
       localStorage.setItem("user", JSON.stringify(updatedUser));
       alert(`${movie.Title} has been removed from your favorites`);
     })
@@ -153,8 +153,8 @@ export const MainView = () => {
                   <Col>The list is empty!</Col>
                 ) : (
                   <Col md={8}>
-                    <MovieView 
-                    movies={movies} 
+                    <MovieView
+                    movies={movies}
                     addFavorite={handleFavoriteClick}
                     removeFavorite={handleRemoveFavoriteClick}
                     />

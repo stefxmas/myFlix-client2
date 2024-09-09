@@ -27272,8 +27272,8 @@ const MainView = ()=>{
     const [user, setUser] = (0, _react.useState)(storedUser ? storedUser : null);
     const [token, setToken] = (0, _react.useState)(storedToken ? storedToken : null);
     const [movies, setMovies] = (0, _react.useState)([]);
-    // const [selectedMovie, setSelectedMovie] = useState(null);
-    // const [favoriteMovies, setFavoriteMovies] = useState(user ? user.favoriteMovies : []);
+    const [selectedMovie, setSelectedMovie] = (0, _react.useState)(null);
+    const [favoriteMovies, setFavoriteMovies] = (0, _react.useState)(user ? user.favoriteMovies : []);
     (0, _react.useEffect)(()=>{
         if (token) fetch("https://young-taiga-22993-24addf49ed31.herokuapp.com/movies", {
             headers: {
@@ -27538,7 +27538,7 @@ const MainView = ()=>{
         columnNumber: 5
     }, undefined);
 };
-_s(MainView, "vrQobkEX5jhNcI69dtstaSSmWyg=");
+_s(MainView, "dVrCoIDlOi482O7PuO+fTZTbFV4=");
 _c = MainView;
 var _c;
 $RefreshReg$(_c, "MainView");

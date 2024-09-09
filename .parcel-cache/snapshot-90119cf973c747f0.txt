@@ -34,7 +34,7 @@
 93C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\uncontrollable\lib\LICENSE133703179422980823 0
 98C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\dom-helpers\esm\scrollLeft.d.ts133703179434769025 0
 87C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\semver\bin\semver.js133703173975271703 0
-58C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist133703186938690876 1
+58C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist133703193023590875 1
 98C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\AccordionButton133703179436317223 1
 100C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\dom-helpers\hasClass\package.json133703179427897780 0
 100C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\features\aac.js133703173967373587 0
@@ -163,7 +163,7 @@
 115C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133703179435514532 0
 86C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\dom-helpers\LICENSE133703179422699594 0
 105C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\features\jpeg2000.js133703173988676133 0
-92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view\main-view.jsx133703139903037189 0
+92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\main-view\main-view.jsx133703193020856737 0
 79C:\Users\stefa\Documents\careerfoundry\myFlix-client2\src\components\login-view133703141869356731 1
 99C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@swc\helpers\_\_write_only_error133703179428897490 1
 91C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\semver\internal\debug.js133703173972165834 0
@@ -5260,7 +5260,7 @@
 118C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\eventListeners.js.flow133703178600514232 0
 105C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\flip.d.ts133703178600524898 0
 103C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\flip.js133703178600535446 0
-80C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js.map133703186938701110 0
+80C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js.map133703193023601140 0
 105C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\hide.d.ts133703178600596860 0
 108C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\hide.js.flow133703178600632283 0
 106C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\lib\modifiers\index.d.ts133703178600643622 0
@@ -5340,7 +5340,7 @@
 108C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\dist\umd\popper.min.js.map133703178599425676 0
 92C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@parcel\fs\lib\browser.js133703173967393521 0
 106C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\dist\esm\createPopper.js133703178598877734 0
-76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js133703186938637345 0
+76C:\Users\stefa\Documents\careerfoundry\myFlix-client2\dist\index.b4b6dfad.js133703193023435418 0
 99C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\dist\esm\index.js133703178598899637 0
 100C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\dist\esm\modifiers133703178601831121 1
 105C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@popperjs\core\dist\esm\popper-base.js133703178598914035 0
