@@ -31,7 +31,7 @@
 99C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\chokidar\lib\fsevents-handler.js133703173967844648 0
 93C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\@restart\ui\DropdownToggle133703179427119292 1
 93C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\TabContent133703179438989058 1
-66C:\Users\stefa\Documents\careerfoundry\myFlix-client2\package.json133703179445182111 0
+66C:\Users\stefa\Documents\careerfoundry\myFlix-client2\package.json133703182759281191 0
 108C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\react-bootstrap\DropdownMenu\package.json133703179437533983 0
 98C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\caniuse-lite\data\regions\KZ.js133703173989179896 0
 108C:\Users\stefa\Documents\careerfoundry\myFlix-client2\node_modules\electron-to-chromium\chromium-versions.js133703173966987058 0
