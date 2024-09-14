@@ -16,6 +16,7 @@ export const MainView = () => {
   const [movies, setMovies] = useState([]);
   const [selectedMovie, setSelectedMovie] = useState(null);
   const [favoriteMovies, setFavoriteMovies] = useState(user ? user.favoriteMovies : []);
+  const [filteredMovies, setFilteredMovies] = useState([]);
 
   useEffect(() => {
     if (token) {
@@ -44,6 +45,7 @@ export const MainView = () => {
           }));
 
           setMovies(moviesFromApi);
+          setFilteredMovies(moviesFromApi);
         })
         .catch((error) => {
           console.error('Error fetching movies:', error);
@@ -51,7 +53,16 @@ export const MainView = () => {
     }
   }, [token]);
 
-  const handleLogout = () => {
+
+
+  const handleSearch = (query) => {
+    const lowerCaseQuery = query.toLowerCase();
+    const filtered = movies.filter(movie => movie.Title.toLowerCase().includes(lowerCaseQuery));
+    setFilteredMovies(filtered);
+  };
+
+
+    const handleLogout = () => {
     localStorage.clear();
     setUser(null);
     setToken(null);
@@ -112,7 +123,7 @@ export const MainView = () => {
 
   return (
     <BrowserRouter>
-      <NavigationBar user={user} onLoggedOut={handleLogout} />
+      <NavigationBar user={user} onLoggedOut={handleLogout} handleSearch={handleSearch} />
       <Row className="justify-content-md-center">
         <Routes>
           <Route
@@ -169,11 +180,11 @@ export const MainView = () => {
               <>
                 {!user ? (
                   <Navigate to="/login" replace />
-                ) : movies.length === 0 ? (
+                ) : filteredMovies.length === 0 ? ( // Use filteredMovies here
                   <Col>The list is empty!</Col>
                 ) : (
                   <>
-                    {movies.map((movie) => (
+                    {filteredMovies.map((movie) => ( // Render filteredMovies
                       <Col className="mb-4" key={movie.id} md={3}>
                         <MovieCard
                           movie={movie}

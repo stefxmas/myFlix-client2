@@ -1,7 +1,16 @@
-import { Navbar, Container, Nav, Button } from "react-bootstrap";
+import { Navbar, Container, Nav, Button, Form, FormControl } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import { useState } from 'react';
 
-export const NavigationBar = ({ user, onLoggedOut }) => {
+export const NavigationBar = ({ user, onLoggedOut, handleSearch }) => {
+  const [searchQuery, setSearchQuery] = useState('');
+ 
+  const onSearchInputChange = (e) => {
+    setSearchQuery(e.target.value);
+    handleSearch(e.target.value); // Call the passed search handler
+  };
+ 
+ 
   return (
     <Navbar bg="light" expand="lg">
       <Container>
@@ -29,6 +38,19 @@ export const NavigationBar = ({ user, onLoggedOut }) => {
            
            
           </Nav>
+
+          {/* Search Form */}
+          <Form className="d-flex">
+            <FormControl
+              type="search"
+              placeholder="Search Movies"
+              className="me-2"
+              value={searchQuery}
+              onChange={onSearchInputChange}
+            />
+            <Button variant="outline-success">Search</Button>
+          </Form>
+
         </Navbar.Collapse>
       </Container>
     </Navbar>
