@@ -17,13 +17,14 @@ The main features of the app allow users to:
 </p>
 
 <h1>Installation<h1>
-npm install -g parcel
+
+<p>npm install -g parcel
 
 npm install --save react react-dom
 
 npm install -g process
 
-npm install react-bootstrap bootstrap<p>
+npm install react-bootstrap bootstrap
 </p>
 
 <h1>Instruct Parcel to build project</h1>
